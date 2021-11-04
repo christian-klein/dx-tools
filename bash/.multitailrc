@@ -1,2 +1,3 @@
 colorscheme:wps_log
-cs_re:green:Server WebSphere_Portal open for e-business
+cs_re:green,,bold:Server WebSphere_Portal open for e-business
+cs_re:cyan:ServerCache
